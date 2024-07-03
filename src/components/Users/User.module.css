@@ -1,0 +1,9 @@
+.item {
+    border: 2px black solid;
+    border-radius: 8px;
+    padding: 20px;
+}
+.item a {
+    color: blue;
+    font-size: 22px;
+}

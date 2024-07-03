@@ -1,0 +1,16 @@
+.chosenPostBlock{
+    border: 1px black solid;
+    padding: 30px;
+
+}
+.chosenPostBlock h2{
+    font-weight: normal;
+
+}
+.author{
+    font-style: italic;
+    text-align: right;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}

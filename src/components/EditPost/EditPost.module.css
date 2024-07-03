@@ -1,0 +1,14 @@
+.editPostBlock {
+    padding: 30px;
+    font-size: 22px;
+
+}
+.editPostBlock form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.editPostBlock form textarea {
+    width: 60vw;
+    font-size: 18px;
+}
